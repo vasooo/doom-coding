@@ -56,3 +56,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
   *Wherever you would use localhost:PORT to view an application, replace localhost with your-machine.tailnet-name.ts.net*
 - View Databases: Use the PostgreSQL app to troubleshoot databases on the go<br>
   https://apps.apple.com/us/app/postgresql-client/id1233662353
+
+# Happy Doom Coding!
+
+Too much screen time is probably a bad thing - but working code is for sure better than brain rot
