@@ -1,5 +1,5 @@
 # doom-coding
-Tired of Doom Scrolling? Replace one addiction with the marginally healthier addiction of Doom Coding. Here's a 5-minute guide for how to smartphone to code anywhere at anytime.
+Tired of Doom Scrolling? Replace one addiction with the marginally healthier addiction of Doom Coding. Here's a 5-minute guide on how to use your smartphone to code anywhere at anytime.
 
 # What You Need
 1. A Computer running 24/7 with Internet Connection
