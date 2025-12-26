@@ -6,7 +6,7 @@ As an aspiring builder, I sought out a way to keep coding on-the-go. Thanks to s
 After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
 Code in the air!<br>
-![Uploading image.jpeg…]()
+![image](https://github.com/user-attachments/assets/05bb6616-9a59-4824-ab15-07a941af6bd8)
  <br>
 
 Code on a run! <br>
