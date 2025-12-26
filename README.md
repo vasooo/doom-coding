@@ -1,5 +1,24 @@
 # doom-coding
-Tired of Doom Scrolling? Replace one addiction with the marginally healthier addiction of Doom Coding. Here's a 5-minute guide on how to use your smartphone to code anywhere at anytime.
+If you're addicted to your phone and addicted to coding, let me introduce you to "Doom Coding".
+
+Instead of doom scrolling mindlessly on social media, you can use your smartphone, computer, and Claude Code to build on-the-go!
+
+After this 5-minute setup guide, you'll be able to code anywhere at any time.
+
+You can code in the air!<br>
+<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/38e4c29f-9793-4700-bb99-17e368400cc4" /> <br>
+
+You can code on a run! <br>
+<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/f5449004-0a76-44ee-9922-a5cce1423f93" /> <br>
+
+
+You can code at the club! <br>
+<img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
+
+Anywhere you have Internet connection, you'll be able to make progress on the projects you cared about. I am based in Philadelphia and was able to code build an MVP from my phone while traveling in Taiwan (check out www.friendlyr.ai to help shape the future of connection!)
+
+Oh the places you will code! Happy coding my friends!
+
 
 # What You Need
 1. A Computer running 24/7 with Internet Connection
