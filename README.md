@@ -45,8 +45,7 @@ Use Tailscale, Termius, Claude Code, and a computer running 24/7 to continue bui
 https://docs.anthropic.com/en/docs/claude-code/overview
 
 ## 2. Set Up Your Phone
-- Install Tailscale → Sign in with the same account<br>
-  https://tailscale.com/download
+- Install Tailscale → Sign in with the same account<br>  https://apps.apple.com/us/app/tailscale/id1470499037
 - Install Termius (A Mobile Terminal Tool) <br>
   https://apps.apple.com/us/app/termius-modern-ssh-client/id549039908
 - Note the MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
