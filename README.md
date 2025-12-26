@@ -50,10 +50,12 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 - If you're not able to establish a connection from your phone via Termius to your computer:
 ## 1. Reset your Tailscale VPN
 <img width="400" height="227" alt="image" src="https://github.com/user-attachments/assets/1b041eff-9001-4e41-8922-c7f3bcb368da" /> <br>
+<img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/e5da61ab-828d-4f40-920d-840306c284ed" />
+
 
 
 ## 2. Make sure your computer is ON and UNLOCKED
-I- When disconnecting/reconnecting power, make sure you unlock the computer.
+When disconnecting/reconnecting power, make sure you unlock the computer. 
 # Best Practices
 - Track your progress: End sessions by asking Claude to update CLAUDE.md with where you left off
 - Preview websites: Go to your desired directory and start an HTTP server<br>
