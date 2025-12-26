@@ -15,9 +15,9 @@ Code on a run! <br>
 Even code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-Doom coding has helped me make meaningful progress on the projects I care about. Shameless plug: While I was traveling in Taiwan, I accessed my computer in Philadelphia and built an MVP in my downtime. 
+I still get giddy getting so much done while being so far away from home. In Taiwan, I could access my computer in Philadelphia and built an MVP in my downtime. 
 
-*Check out www.friendlyr.ai to help shape the future of connection!*
+*Shameless plug: check out www.friendlyr.ai to help shape the future of connection!*
 
 Make sure to "Watch" this repo for future updates to this doom coding guide. As I tryout the latest mobile coding tools (e.g. Claude Code on the Web), I'll update this repository with comparisons.
 
@@ -49,12 +49,12 @@ https://docs.anthropic.com/en/docs/claude-code/overview
   https://tailscale.com/download
 - Install Termius (A Mobile Terminal Tool) <br>
   https://apps.apple.com/us/app/termius-modern-ssh-client/id549039908
-- Note your MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
+- Note the MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
   <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/6da3907d-ca08-48c8-9f18-54c8d644b21e" />
 
 - Create a new host in Termius:<br>
   * Label: What you want your connection to be called
-  * Hostname: Your MagicDNS address (my-computer.tailnet-name.ts.net)
+  * Hostname: The MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
   * Username/Password: Your login for your computer <br>
   ![image](https://github.com/user-attachments/assets/69e2d4f0-9dad-4362-8b39-304f3ef66e6d)
@@ -94,7 +94,7 @@ then visit http://your-machine.tailnet-name.ts.net:3005/your-html-file.html in a
 *Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net)*
 
 ### View Databases:
-Use the PostgreSQL app to view databases on the go https://apps.apple.com/us/app/postgresql-client/id1233662353
+Use the PostgreSQL app to view databases for your projects https://apps.apple.com/us/app/postgresql-client/id1233662353
 
 ### Bookmark Useful Sites:
 On your computer, bookmark the sites you refer to during development (e.g. Google OAuth, GitHub) to make it easier to reference from your phone. I use the Chrome app to seamlessly access the sites I need. 
