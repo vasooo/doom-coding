@@ -92,4 +92,4 @@ When disconnecting/reconnecting power, make sure you unlock the computer.
 
 # Happy Doom Coding!
 
-Too much screen time is probably a bad thing - but working code is for sure better than brain rot
+Too much screen time is probably a bad thing - but working code is for sure better than brain rot!
