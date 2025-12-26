@@ -100,4 +100,4 @@ On your computer, bookmark the sites you refer to during development (e.g. Googl
 
 
 # Happy Doom Coding!
-Please contibute your best practices! I am looking forward to hearing all the places you will code!
+Please contibute your best practices! I am looking forward to seeing all the places you will code!
