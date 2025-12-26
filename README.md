@@ -1,7 +1,7 @@
 # doom-coding
 A DIY approach to coding on-the-go. 
 
-As an aspiring builder, I sought out a way to keep coding on-the-go. Thanks to some Claude-assisted research and troubleshooting, I can now code from my phone anywhere at anytime through a method my partner affectionately calls "Doom Coding" (think _Doom Scrolling_ but marginally more productive).
+As an aspiring builder, I sought out a way to keep coding on-the-go. Thanks to some Claude-assisted research and troubleshooting, I can now code from my phone anywhere at anytime via "Doom Coding" (think *Doom Scrolling* but more productive).
 
 After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
@@ -82,17 +82,24 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 ## 2. Make sure your computer is ON and UNLOCKED
 When disconnecting/reconnecting power, make sure you unlock the computer. 
 # Best Practices
-- Track your progress: End sessions by asking Claude to update CLAUDE.md with where you left off
-- Preview websites: Go to your desired directory and start an HTTP server<br>
+### Track your progress:
+End sessions by asking Claude to update CLAUDE.md with where you left off
+
+### Preview websites:
+Go to your desired directory and start an HTTP server<br>
 ``
   python -m http.server 3005
 ``
-  then visit http://your-machine.tailnet-name.ts.net:3005 in a browser on your phone<br>
-  *Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net)*
-- View Databases: Use the PostgreSQL app to troubleshoot databases on the go<br>
-- Bookmark Supporting Sites: On your computer, bookmark the sites you refer to during development (e.g. Google OAuth, GitHub) to make it easier to reference from your phone. I use the Chrome app to seamlessly access the sites I need. 
-  https://apps.apple.com/us/app/postgresql-client/id1233662353
+then visit http://your-machine.tailnet-name.ts.net:3005 in a browser on your phone<br>
+
+*Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net)*
+
+### View Databases:
+Use the PostgreSQL app to troubleshoot databases on the go: https://apps.apple.com/us/app/postgresql-client/id1233662353
+
+### Bookmark Useful Sites:
+On your computer, bookmark the sites you refer to during development (e.g. Google OAuth, GitHub) to make it easier to reference from your phone. I use the Chrome app to seamlessly access the sites I need. 
+
 
 # Happy Doom Coding!
-
-Too much screen time is probably a bad thing - but working code is for sure better than brain rot!
+Please contibute your best practices! I am looking forward to hearing all the places you will code!
