@@ -15,7 +15,7 @@ You can code on a run! <br>
 You can code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-Anywhere you have Internet connection, you'll be able to make progress on the projects you cared about. I iam based in Philadelphia and was able to build an MVP from my phone while traveling in Taiwan (check out www.friendlyr.ai to help shape the future of connection!)
+Anywhere you have Internet connection, you'll be able to make progress on the projects you care about. I am based in Philadelphia and was able to build an MVP from my phone while traveling in Taiwan (check out www.friendlyr.ai to help shape the future of connection!)
 
 Thankfully for us, being on your phone 24/7 is a global cultural norm. Now we can turn our screen time into work time - happy doom coding my friends!
 
