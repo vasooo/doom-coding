@@ -49,11 +49,12 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 # Troubleshooting
 - If you're not able to establish a connection from your phone via Termius to your computer:
 ## 1. Reset your Tailscale VPN
-<img width="400" height="227" alt="image" src="https://github.com/user-attachments/assets/1b041eff-9001-4e41-8922-c7f3bcb368da" />
+<img width="400" height="227" alt="image" src="https://github.com/user-attachments/assets/1b041eff-9001-4e41-8922-c7f3bcb368da" /> <br>
+
 
 ## 2. Make sure your computer is ON and UNLOCKED
-Prior to a trip to Mexico, I had unplugged/replugged my Doom Coding laptop BUT I forgot to unlock the computer. I was unable to Doom Code on-the-go and resigned to socializing on the flight there. I was able to mitigste the crisis by running my other laptop 24/7 from the Airbnb.
-# Doom Coding Best Practices
+I- When disconnecting/reconnecting power, make sure you unlock the computer.
+# Best Practices
 - Track your progress: End sessions by asking Claude to update CLAUDE.md with where you left off
 - Preview websites: Go to your desired directory and start an HTTP server<br>
 ```
