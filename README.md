@@ -1,7 +1,7 @@
 # doom-coding
 A DIY approach to coding on-the-go!
 
-As an aspiring builder, I sought out a way to keep coding while not at home. Thanks to some Claude-assisted research and troubleshooting, I can now code from my phone anywhere at anytime via "Doom Coding" (think *Doom Scrolling* but more productive).
+As an aspiring builder, I sought out a way to keep coding while not at home. Thanks to some Claude-assisted research and troubleshooting, I can now code via the terminal on my phone anywhere at anytime via "Doom Coding" (think *Doom Scrolling* but more productive).
 
 After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
